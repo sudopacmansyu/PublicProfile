@@ -8,7 +8,7 @@ Discovered my first CVE with the guidance of fellow security researchers to get 
 
 # Highlights
 
-Discovered low-priveleged authenticated API key exposure in Nagios Log Server - CVE-2025-44823 (https://nvd.nist.gov/vuln/detail/CVE-2025-44823).
+Discovered low-priveleged authenticated API key exposure in Nagios Log Server - CVE-2025-44823 (https://nvd.nist.gov/vuln/detail/CVE-2025-44823) - Associated Repo: https://github.com/skraft9/CVE-2025-44823
 
 Co-author (credit to Seth Kraft) - of Incorrect Authorization in Nagios Log Server - CVE-2025-55824 - (https://nvd.nist.gov/vuln/detail/CVE-2025-44824).
 
