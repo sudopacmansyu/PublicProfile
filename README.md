@@ -1,10 +1,10 @@
 # Alex Tisdale
 
-Seasoned professional in the cybersecurity and information technology since 2016. Getting my hands on as many technologies as I can touch and growing skills both professionally and personally.
+Seasoned professional in the cybersecurity and information technology since 2016. Getting my hands on as many technologies as I can touch, growing skills both professionally and personally.
 
-While majority of my career has been working in blue team security as a security engineer, I have challenged myself to develop skills further by participating in hunting vulnerabilities.
+While majority of my career has been working in blue team as a security engineer, I have challenged myself to develop skills further by participating in hunting vulnerabilities and understanding threat research.
 
-Discovered my first CVE with the guidance of fellow security researchers to get my feet wet.
+Discovered my first CVE with the guidance of fellow security researchers to get my feet wet and understand the process/procedures to effectively contribute to the world of threat research and CVE's.
 
 # Highlights
 
